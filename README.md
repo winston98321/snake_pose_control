@@ -44,7 +44,11 @@ Mediapipe is a cross-platform framework developed by Google that provides high-f
 
 ![Workflow](workflow.png)
 
-[Demo Video](demo.mp4)
+### Demo Video
+
+<video width="640" height="480" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 [YouTube Demo Video](https://youtu.be/tzlR8dmS088?si=AYr2ypYCvU9c_TM9)
 
