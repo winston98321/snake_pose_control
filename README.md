@@ -2,6 +2,10 @@
 
 ## Using Posture Recognition to Play Snake Games
 
+## Acknowledgements
+This project uses the `snake-ai` environment for the snake game from [linyiLYi](https://github.com/linyiLYi/snake-ai). A big thank you to the original author for providing such a great resource.
+## Author : Po Kai Su,Wei Yi Lin,Jui Yang Tsai
+
 ### Introduction
 In this project, we leverage posture recognition technology to control the classic "Snake" game using body movements. This innovative approach allows players to engage in physical activity while enjoying the game, utilizing webcams that might otherwise go unused.
 
@@ -48,5 +52,6 @@ Mediapipe is a cross-platform framework developed by Google that provides high-f
 
 [Demo Video](demo.mp4)
 
+Watch introduction video on Youtube
 [![Watch introduction video](https://img.youtube.com/vi/tzlR8dmS088/maxresdefault.jpg)](https://youtu.be/tzlR8dmS088?si=AYr2ypYCvU9c_TM9)
 
