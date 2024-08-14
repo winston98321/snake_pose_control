@@ -5,7 +5,7 @@
 ## Acknowledgements
 This project uses the `snake-ai` environment for the snake game from [linyiLYi](https://github.com/linyiLYi/snake-ai). A big thank you to the original author for providing such a great resource.
 
-Author : Po Kai Su,Wei Yi Lin,Jui Yang Tsai
+Author : Po Kai Su,Wei Yi Lin,[Jui Yang Tsai](https://github.com/abde2939)
 
 ### Introduction
 In this project, we leverage posture recognition technology to control the classic "Snake" game using body movements. This innovative approach allows players to engage in physical activity while enjoying the game, utilizing webcams that might otherwise go unused.
